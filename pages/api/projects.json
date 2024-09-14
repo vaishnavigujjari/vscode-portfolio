@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "name": "Sticky Notes",
+    "image": "/sticky-notes.png",
+    "description": "Sticky Notes is a collaborative platform for adding and sharing sticky notes on web projects.",
+    "tags": ["React JS", "Appwrite", "HTML", "CSS", "JS"],
+    "source_code": "https://github.com/vaishnavigujjari/sticky-notes",
+    "demo": "https://sticky-notes.vaishnavigujjari.me/"
+  },
+  {
+    "id": 2,
+    "name": "Kanban Board",
+    "image": "/kanban-board.jpeg",
+    "description": "Visual project management tool for tracking tasks and workflow efficiency.",
+    "tags": ["React JS", "TypeScript", "HTML", "CSS", "JS"],
+    "demo": "https://kanban.vaishnavigujjari.me/"
+  },
+  {
+    "id": 3,
+    "name": "VSCode Portfolio",
+    "image": "/vscode-portfolio.png",
+    "description": "A themeable and developer-centric portfolio based on the VSCode",
+    "tags": ["Next JS", "React JS", "css-modules"],
+    "source_code": "https://github.com/vaishnavigujjari/vscode-portfolio",
+    "demo": "https://vaishnavigujjari.me/"
+  }
+]

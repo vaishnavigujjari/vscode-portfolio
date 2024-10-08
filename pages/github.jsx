@@ -52,7 +52,7 @@ const GithubPage = ({ repos, user }) => {
 export async function getStaticProps() {
   try {
     const userRes = await fetch(
-      `https://api.github.com/users/${process.env.GITHUB_USERNAME}`,
+      `https://api.github.com/users/${process.env.NEXT_PUBLIC_GITHUB_USERNAME}`,
       {
         headers: {
           Authorization: `token ${process.env.GITHUB_API_KEY}`,

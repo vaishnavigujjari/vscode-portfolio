@@ -1,81 +1,28 @@
 [
   {
-    "id": 1,
+    "id": 2,
     "name": "Flow",
-    "role": "Senior Software Engineer, Full Stack",
-    "image": "/flow.jpeg",
-    "description": [
-      "Spearheaded the development and deployment of robust backend solutions using Node JS, supported by MongoDB, for the company's corporate website and B2B sales application, leading to a 35% increase in B2B sales and a seamless user experience.",
-      "Optimized server response time by 30% and improved handling of peak traffic loads by configuring and managing NGINX for load balancing and performance.",
-      "Orchestrated the deployment and scaling of applications on AWS EC2 instances, optimizing instance types and load balancing, resulting in a 60% improvement in resource utilization.",
-      "Configured debuggers for Dockerized microservices, reducing diagnostic time by 30% and increasing development efficiency through streamlined issue identification and resolution.",
-      "Implemented comprehensive logging and monitoring solutions, contributing to a 20% improvement in issue identification and resolution times across dev projects."
-    ],
-    "tags": [
-      "React JS",
-      "AWS",
-      "Docker",
-      "Kubernetes",
-      "Node JS"
-    ]
+    "role": "Senior Software Engineer, Full Stack"
   },
   {
-    "id": 1,
+    "id": 3,
     "name": "Sureify",
-    "role": "Software Engineer, Full Stack",
-    "image": "/sureify.jpeg",
-    "description": [
-      "Improved data retrieval speed by 25% and scaled to support over 10,000 requests per second by engineering and deploying high-performance RESTful APIs using AWS API Gateway, Lambda, and DynamoDB.",
-      "Achieved a 75% improvement in response times for 850K requests by revamping the API Wrapper Microservice to support async with Worker Pools; awarded “Employee of the Month” for outstanding contributions",
-      "Reduced infrastructure costs and accelerated deployment time by 62% by managing and optimizing the deployment of Docker containers on AWS EC2 and ECS.",
-      "Minimized manual intervention by 50% and ensured continuous deployment across multiple environments by designing and establishing a DevOps strategy using Jenkins, Docker, Kubernetes, and AWS services. ",
-      "Demonstrated a keen eye for detail during thorough debugging and troubleshooting sessions, resulting in a remarkable 32% reduction in critical system defects. ",
-      "Achieved a 30% reduction in QA time by implementing automated testing with React Testing Library and Jest, while supervising a team of 8 interns and managing Agile/Scrum processes for sprint planning, reviews, and grooming."
-    ],
-    "tags": [
-      "React JS",
-      "Appwrite",
-      "HTML",
-      "CSS",
-      "JS"
-    ]
-  },
-  {
-    "id": 1,
-    "name": "Innopark Ventures",
-    "role": "Software Development Engineer, Full Stack",
-    "image": "/innopark.jpeg",
-    "description": [
-      "Enhanced response time by 20% and supported over 5,000 concurrent users by enhancing the backend architecture for the MVP of Rent-a-Block using the MERN stack.",
-      "Collaborated closely with cross-functional teams throughout the project lifecycle, fostering seamless integration of machine learning solutions into existing business operations increasing operational efficiency by 20%.",
-      "Automated scaling and monitoring for AWS EC2 instances, resulting in a 25% reduction in manual intervention and enhanced system resilience during high-demand periods.",
-      "Developed and maintained backend systems and React JS SPAs, incorporating 20 new features and utilizing Axios for efficient HTTP requests, significantly reducing server load by 30%.",
-      "Utilized Swagger to design and document RESTful APIs, improving API development efficiency by 30% and enhancing communication between frontend and backend teams with clear, interactive documentation, reducing integration issues."
-    ],
-    "tags": [
-      "React JS",
-      "Appwrite",
-      "HTML",
-      "CSS",
-      "JS"
-    ]
+    "role": "Software Engineer, Full Stack"
   },
   {
     "id": 4,
+    "name": "Innopark Ventures",
+    "role": "Software Development Engineer, Full Stack"
+  },
+  {
+    "id": 5,
     "name": "Amazon",
-    "role": "Amazon Campus Mentorship Series (ACMS) Mentee",
-    "image": "/amazon.jpeg",
-    "description": [
-      "Initiated the conceptualization of web-based applications leveraging Django to ensure the development of responsive and user-friendly interfaces and achieved a 25% improvement in website loading speed through algorithm optimization techniques.",
-      "Facilitated seamless application deployment and management using Kubernetes and Docker, which reduced deployment time by 35% and streamlined updates across multiple environments.",
-      "Conducted thorough API testing for 70+ RESTful APIs using Postman, employing HTTP methods like GET, POST, PUT, and DELETE, which identified and mitigated 95% of critical issues before production, enhancing system reliability and uptime."
-    ],
-    "tags": [
-      "React JS",
-      "Appwrite",
-      "HTML",
-      "CSS",
-      "JS"
-    ]
+    "role": "Amazon Campus Mentorship Series (ACMS) Mentee"
+  },
+  {
+    "id": 6,
+    "name": "Microsoft",
+    "role": "Microsoft Student Partner"
   }
 ]
+
